@@ -2,15 +2,17 @@
 
 
 **gabriela batista da silva**
--_Estudo no Colegio Neide Bertasso Beraldo_
--Tenho 16 anos
--Estou na 1 serie A do Ensino medio
--Estou estudando na Alura
--Estou me desenvolvendo na linguagem JavaScript
--Utilizo esse espaço para minha organizaçao e compartilhamento dos meu projetos desenvolvidos
+-📖_Estudo no Colegio Neide Bertasso Beraldo_
+-🦋Tenho 16 anos
+-👨‍🏫Estou na 1 serie A do Ensino medio
+-🖥️Estou estudando na [Alura](https://www.alura.com.br)
+-📱Estou me desenvolvendo na linguagem JavaScript
+-🐡Utilizo esse espaço para minha organizaçao e compartilhamento dos meu projetos desenvolvidos
 
 ###Voce pode entrar em contato comigo:
 gabriela.batista.silva@escola.pr.gov.br
+
+https://media1.tenor.com/m/1yZbwTq-AKwAAAAd/sabbrina.gif
 
 <!---
 gabriela-silva04/gabriela-silva04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
